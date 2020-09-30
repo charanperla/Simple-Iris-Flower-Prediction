@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Simple Iris Flower Prediction.py
+web: sh setup.sh && streamlit run Myapp.py
